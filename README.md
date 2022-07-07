@@ -4,7 +4,7 @@ Hi 👋 My name is younes
 * 🌍  I'm based in belgium
 * ✉️  You can contact me at [sheikhlaryounes@gmail.com](mailto:sheikhlaryounes@gmail.com)
 *      Web site    :          [Website](linkurlhttps://younes-sh.github.io/crypto/)
-
+[An Internal Link](/guides/content/editing-an-existing-page)
 ### Skills
 
 <p align="left">
