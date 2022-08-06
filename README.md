@@ -35,7 +35,7 @@
 
 
 </p>
-###  Socials
+
 
 <p align="left"> <a href="https://www.codepen.io/siryounes" target="_blank" rel="noreferrer"><img class='text-light' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32"  style='color :red'/></a> <a href="https://www.github.com/Younes-sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp; </p>
 
