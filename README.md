@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 😇  I'm Younes Sheikhlar</h1>
+<h1 align="center">Hi I'm Younes Sheikhlar</h1>
 
 
 
