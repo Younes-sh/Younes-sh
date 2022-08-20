@@ -82,7 +82,25 @@
   left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  z-index: 99;'>
+  z-index: 99;'  style::before='content: attr(data-char);
+  font-size: 400px;
+  position: absolute;
+  text-shadow: 0px 0px 5px #00ff56;
+  clip-path: polygon(
+    0% 100%,
+    0% 0%,
+    100% 0%,
+    100% 50%,
+    50% 50%,
+    100% 50%,
+    100% 100%
+  );
+  animation-name: loading;
+  animation-duration: 10s;
+  animation-delay: -0.1s;
+  animation-timing-function: cubic-bezier(0, 0.1, 0.9, 0.81);
+  animation-direction: reverse;
+  mix-blend-mode: color;'>
   Y
   <div class="inside">Y</div>
 </div>
