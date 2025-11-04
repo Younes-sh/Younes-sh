@@ -40,11 +40,19 @@
 
 <p align="left">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## 🛠 Skills & Technologies
+
+- **Back-end:** Node.js, Express.js, Nest.js, Linux, Docker, MongoDB  
+- **Front-end:** HTML, CSS, Bootstrap, JavaScript, Vite.js, React.js, TypeScript  
+- **Python:** Pandas, NumPy, Statsmodels, GeoPandas, fastparquet  
+- **R:** dplyr, caret, ggplot2  
+- **SQL:** MySQL, PostgreSQL  
+- **Visualization:** Matplotlib, Seaborn, ggplot2  
+- **Editors:** VS Code, PyCharm, Jupyter, Google Colab  
+- **Git:** GitHub, GitLab  
+- **Image Processing:** OpenCV, Pillow, scikit-image  
+- **Time Series Analysis:** Statsmodels, ARIMA, SARIMA, LSTM  
+- **GIS:** ArcGIS
 
 </p>
 
