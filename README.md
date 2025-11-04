@@ -42,7 +42,7 @@
 
 ## 🛠 Skills & Technologies
 
-- **Back-end:** Node.js, Express.js, Nest.js, Linux, Docker, MongoDB  
+- **Back-end:** https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white, [Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat), [Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white), [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), [Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white), [MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)  
 - **Front-end:** HTML, CSS, Bootstrap, JavaScript, Vite.js, React.js, TypeScript  
 - **Python:** Pandas, NumPy, Statsmodels, GeoPandas, fastparquet  
 - **R:** dplyr, caret, ggplot2  
