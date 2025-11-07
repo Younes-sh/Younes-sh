@@ -17,15 +17,14 @@
 
 ## 📠 Connect with me
 
-<p align="left">
-  |  |  |
-  |--------|----------------------|
-  | **[websit: younessheikhlar.com]** | (https://younessheikhlar.com/) |
- - 📫 How to reach me **sheikhlaryounes@gmail.com** |
-  <a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank"> |
+| Domain | Technologies & Tools |
+|--------|----------------------|
+|**[websit: younessheikhlar.com]** | (https://younessheikhlar.com/) |
+|**📫How to reach me** |sheikhlaryounes@gmail.com |
+  <a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank"> 
   [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
-</p>
+
 
 
 <p align="left"> <a href="https://www.codepen.io/siryounes" target="_blank" rel="noreferrer"><img class='text-light' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32"  style='color :red'/>
