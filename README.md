@@ -50,7 +50,7 @@
 | **Editors** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=)|
 | **Git** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
 | **Image Processing** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge) ![scikit-image](https://img.shields.io/badge/scikit_image-F7931E?style=for-the-badge) |
-| **Time Series Analysis** | ![Statsmodels](https://img.shields.io/badge/Statsmodels-8C4CF7?style=for-the-badge) ![ARIMA](https://img.shields.io/badge/ARIMA-01B8AA?style=for-the-badge) ![SARIMA](https://img.shields.io/badge/SARIMA-374649?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-D00000?style=for-the-badge) |
+
 | **GIS** | ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7A7B?style=for-the-badge&logo=arcgis&logoColor=white) |
 
 <br>
