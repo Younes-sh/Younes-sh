@@ -18,7 +18,7 @@
 ## 📠 Connect with me
 
 <p align="left">
-  [websit: younessheikhlar.com](https://younessheikhlar.com/) |
+  | **[websit: younessheikhlar.com]** | (https://younessheikhlar.com/) |
  - 📫 How to reach me **sheikhlaryounes@gmail.com** |
   <a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank"> |
   [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
