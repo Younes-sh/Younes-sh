@@ -18,6 +18,8 @@
 ## 📠 Connect with me
 
 <p align="left">
+  |  |  |
+  |--------|----------------------|
   | **[websit: younessheikhlar.com]** | (https://younessheikhlar.com/) |
  - 📫 How to reach me **sheikhlaryounes@gmail.com** |
   <a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank"> |
