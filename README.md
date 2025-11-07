@@ -21,9 +21,10 @@
 |--------|----------------------|
 |**websit** | (https://younessheikhlar.com/) |
 |**Mail** |sheikhlaryounes@gmail.com |
-  <a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank"> 
+|**Linkedin**|<a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank"> 
   [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
+  </a>|
+  
 
 
 
