@@ -21,7 +21,7 @@
 |--------|----------------------|
 |**websit** | (https://younessheikhlar.com/) |
 |**Mail** | sheikhlaryounes@gmail.com |
-|**Linkedin**| <a href="[https://www.linkedin.com/in/younes-sheikhlar-604160106/](https://www.linkedin.com/in/younes-sheikhlar/)" target="blank"> younes-sheikhlar </a>|
+|**Linkedin**| (https://www.linkedin.com/in/younes-sheikhlar/)|
   
 
 
