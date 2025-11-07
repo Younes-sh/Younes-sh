@@ -5,11 +5,11 @@
 
 
 
- [websit: younessheikhlar.com](https://younessheikhlar.com/)
 
 
 
-- 📫 How to reach me **sheikhlaryounes@gmail.com**
+
+
 
 <!-- - ⚡ Fun fact :- music and code are the reasons to live. -->
 
@@ -18,21 +18,15 @@
 ## 📠 Connect with me
 
 <p align="left">
+  [websit: younessheikhlar.com](https://younessheikhlar.com/)
+ - 📫 How to reach me **sheikhlaryounes@gmail.com**
   <a href="https://www.linkedin.com/in/younes-sheikhlaer-604160106/" target="blank">
-
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://www.instagram.com/o10110101/" target="blank">
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-</a>
-
-
-
+  [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
 </p>
 
 
-<p align="left"> <a href="https://www.codepen.io/siryounes" target="_blank" rel="noreferrer"><img class='text-light' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32"  style='color :red'/></a> <a href="https://www.github.com/Younes-sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp; </p>
+<p align="left"> <a href="https://www.codepen.io/siryounes" target="_blank" rel="noreferrer"><img class='text-light' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32"  style='color :red'/>
 
 <br>
 
