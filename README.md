@@ -17,7 +17,7 @@
 
 ## 📠 Connect with me
 
-| Domain | Technologies & Tools |
+|     |     |
 |--------|----------------------|
 |**websit** | (https://younessheikhlar.com/) |
 |**Mail** | sheikhlaryounes@gmail.com |
