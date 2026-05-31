@@ -19,7 +19,7 @@
 
 |     |     |
 |--------|----------------------|
-|**websit** | (https://younessheikhlar.com/) |
+|**websit** | (https://sheikhlar.com/) |
 |**Mail** | sheikhlaryounes@gmail.com |
 |**Linkedin**| (https://www.linkedin.com/in/younes-sheikhlar/)|
   
